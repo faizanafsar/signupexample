@@ -9,13 +9,12 @@
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/back"
-        android:layout_width="160dp"
+        android:layout_width="170dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="50dp"
         android:background="@drawable/button_selector"
         android:drawableEnd="@drawable/ic_arrow_right"
-        android:shadowRadius="20"
         android:text="sign Up"
         android:elevation="5dp"
         android:textAlignment="center"
